@@ -1,0 +1,23 @@
+{
+  "name": "bintotext",
+  "version": "1.1.1",
+  "description": "Turns binary to text",
+  "main": "index.js",
+  "keywords": [
+    "binary",
+    "text",
+    "converter"
+  ],
+  "bin": {
+    "bin-to-str": "./bin/index.js"
+  },
+  "author": "erdi",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erdi-GitHub/bintotext.git"
+  }
+}
